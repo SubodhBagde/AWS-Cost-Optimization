@@ -23,7 +23,7 @@ We use AWS to reduce storage costs with a Smart Lambda function. This function c
 ![d6](https://github.com/SubodhBagde/AWS-Cost-Optimization/assets/136182792/11027127-9c2e-49a6-ba3e-2defd20cd1dd)
 
 9.  After creating a Snapshot, navigate to the Lambda Console and create the function.<br>
-10. Next, clear the existing code and replace it with the 'identify_stale_snapshots.py' code.<br>
+10. Next, clear the existing code and replace it with the 'ebs-stale-snapshot.py' code.<br>
 
 ![d1](https://github.com/SubodhBagde/AWS-Cost-Optimization/assets/136182792/7dae35d7-d97e-4c66-8da1-c2988fe52c1f)
 
